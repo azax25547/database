@@ -25,5 +25,16 @@
       "quantity": "1",
       "id": 5
     }
-  ]
+  ],
+  "users" : [
+  {
+    id: 1,
+    firstName: "Aditya",
+    lastName: "Mishra",
+    email: "aditya@example.com",
+    phone: 9861890765,
+    location: "chennai",
+    password: "admin"
+  }
+]
 }
