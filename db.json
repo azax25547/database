@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product": "Moto G5",
+      "quantity": 2
+    },
+    {
+      "id": 2,
+      "product": "Racold Geyser",
+      "quantity": 3
+    },
+    {
+      "product": "dell",
+      "quantity": "2",
+      "id": 3
+    },
+    {
+      "product": "Apple XR",
+      "quantity": "1",
+      "id": 4
+    },
+    {
+      "product": "asus",
+      "quantity": "1",
+      "id": 5
+    }
+  ]
+}
