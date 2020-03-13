@@ -28,13 +28,13 @@
   ],
   "users" : [
   {
-    id: 1,
-    firstName: "Aditya",
-    lastName: "Mishra",
-    email: "aditya@example.com",
-    phone: 9861890765,
-    location: "chennai",
-    password: "admin"
+    "id": 1,
+    "firstName": "Aditya",
+    "lastName": "Mishra",
+    "email": "aditya@example.com",
+    "phone": 9861890765,
+    "location": "chennai",
+    "password": "admin"
   }
 ]
 }
