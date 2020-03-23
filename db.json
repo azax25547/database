@@ -1,40 +1,151 @@
 {
   "products": [
     {
-      "id": 1,
-      "product": "Moto G5",
-      "quantity": 2
+      "product": "Vivo U10",
+      "description": "Memory, Storage & SIM: 3GB RAM | 32GB internal memory expandable up to 256GB | Dual SIM (nano+nano) dual-standby (4G+4G)",
+      "manufacturer": "Vivo",
+      "price": "8990",
+      "quantity": "0",
+      "inStock": "",
+      "views": 5,
+      "id": 1
     },
     {
-      "id": 2,
-      "product": "Racold Geyser",
-      "quantity": 3
+      "product": "Apple iPhone XR",
+      "description": "12MP camera with OIS and 7MP TrueDepth front camera—Portrait mode, Portrait Lighting, Depth Control, and Smart HDR",
+      "manufacturer": "Apple",
+      "price": 49990,
+      "quantity": 4,
+      "inStock": "true",
+      "views": 12,
+      "id": 2
     },
     {
-      "product": "dell",
-      "quantity": "2",
+      "product": "Galaxy M30",
+      "description": "Memory, Storage & SIM: 6GB RAM | 64GB storage expandable up to 512GB | Dual SIM with dual standby (4G+4G)",
+      "manufacturer": "Samsung",
+      "price": 14999,
+      "quantity": 5,
+      "inStock": "true",
+      "views": 27,
       "id": 3
     },
     {
-      "product": "Apple XR",
-      "quantity": "1",
+      "product": "OPPO Reno2 Pro",
+      "description": "64MP+13MP+8MP+2MP rear quad camera with 20x digital zoom, ultra clear 108MP image, ultra dark mode, macroshot (3 cm), ultra-wide angle, dual lens bokeh | 44MP+2MP dual punch hole front camera with ultra night mode, ultra steady video 2.0, video bokeh",
+      "manufacturer": "Oppo",
+      "price": 29989,
+      "quantity": 4,
+      "inStock": "true",
+      "views": 5,
       "id": 4
     },
     {
-      "product": "asus",
-      "quantity": "1",
+      "product": "Vivo V15 ",
+      "description": "Pop-Up Selfie Camera: 32MP Pop-Up Selfie Camera with impressive features like Face Beauty, Portrait Bokeh, and much more",
+      "manufacturer": "Vivo",
+      "price": 11999,
+      "quantity": 0,
+      "inStock": "false",
+      "views": 10,
       "id": 5
+    },
+    {
+      "product": "Realme 5 Pro",
+      "description": "Memory, Storage & SIM: 6GB RAM | 64GB internal memory expandable up to 256GB | Dual SIM (nano+nano) dual-standby (4G+4G)",
+      "manufacturer": "Realme",
+      "price": 12970,
+      "quantity": 10,
+      "inStock": "true",
+      "views": 14,
+      "id": 6
+    },
+    {
+      "product": "Redmi Note 8",
+      "description": "48MP AI Quad camera with portrait, ultra-wide lens, macro lens, LED flash, AI support, beautify support | 13MP front camera with AI portrait mode",
+      "manufacturer": "Redmi",
+      "price": 10499,
+      "quantity": 5,
+      "inStock": "true",
+      "views": 24,
+      "id": 7
+    },
+    {
+      "product": "Micromax iOne Notch",
+      "description": "2GB RAM, 16GB internal storage, expandable memory up to 128GB with microSD",
+      "manufacturer": "Micromax",
+      "price": 3798,
+      "quantity": 1,
+      "inStock": "true",
+      "views": 2,
+      "id": 8
+    },
+    {
+      "product": "Nokia 2.2 2/16 Black",
+      "description": "13MP autofocus rear camera 5Mp Front Camera",
+      "manufacturer": "Nokia",
+      "price": 3798,
+      "quantity": 0,
+      "inStock": "false",
+      "views": 7,
+      "id": 9
+    },
+    {
+      "product": "Nokia 2.2 2/16 Black",
+      "description": "13MP autofocus rear camera 5Mp Front Camera",
+      "manufacturer": "Nokia",
+      "price": 3798,
+      "quantity": 0,
+      "inStock": "false",
+      "views": 7,
+      "id": 10
     }
   ],
-  "users" : [
-  {
-    "id": 1,
-    "firstName": "Aditya",
-    "lastName": "Mishra",
-    "email": "aditya@example.com",
-    "phone": 9861890765,
-    "location": "chennai",
-    "password": "admin"
-  }
-]
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Aditya",
+      "lastName": "Mishra",
+      "email": "aditya@pmg.com",
+      "phone": 9861890765,
+      "location": "chennai",
+      "password": "aditya123"
+    },
+    {
+      "id": 2,
+      "firstName": "admin",
+      "lastName": "admin",
+      "email": "admin@pmg.com",
+      "phone": 9861890765,
+      "location": "chennai",
+      "password": "admin1234"
+    },
+    {
+      "firstName": "Sadashiv",
+      "lastName": "Pradhan",
+      "email": "sadashiv@pmg.com",
+      "phone": 1234567890,
+      "location": "Chennai",
+      "password": "sada1234",
+      "id": 3
+    },
+    {
+      "firstName": "Sai",
+      "lastName": "Krishna",
+      "email": "sai@pmg.com",
+      "phone": 12314234521,
+      "location": "channia",
+      "password": "sai1234",
+      "id": 4
+    },
+    {
+      "firstName": "hari",
+      "lastName": "krishna",
+      "email": "hari@pmg.com",
+      "phone": 123456789,
+      "location": "Chennai",
+      "password": "123433452",
+      "id": 5
+    }
+  ]
 }
